@@ -9,7 +9,7 @@
           @keyup.enter="submit"
           type="text"
           class="w-full px-4 py-3 pl-10 rounded-lg border border-amber-200 focus:border-amber-400 focus:ring-2 focus:ring-amber-300 focus:outline-none transition"
-          placeholder="ค้นหาร้านอาหาร เช่น บางแสน"
+          placeholder="ค้นหาร้านอาหาร เช่น บางซื่อ"
         />
 
         <!-- submit button -->

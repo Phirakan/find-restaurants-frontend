@@ -42,6 +42,7 @@ interface Restaurant {
   rating?: number;
 }
 
+//define props
 defineProps({
   restaurants: {
     type: Array as () => Restaurant[],
